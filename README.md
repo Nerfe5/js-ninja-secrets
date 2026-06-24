@@ -9,7 +9,7 @@ Repaso por gusto propio del libro *Secrets of the JavaScript Ninja, 2nd Edition*
 
 | Parte | Capítulos | Tema | Estado |
 |-------|-----------|------|--------|
-| 1. Warming up | 1–2 | El lenguaje JS hoy, ciclo de vida en el navegador | 🟨 en curso |
+| 1. Warming up | 1–2 | El lenguaje JS hoy, ciclo de vida en el navegador | ✅ completo |
 | 2. Functions | 3–7 | First-class functions, invocación, closures, generators/promises | ⬜ pendiente |
 | 3. Digging into objects | 8–10 | Objetos, prototipos, herencia | ⬜ pendiente |
 | 4. Fortifying your code | 11–13 | Testing, debugging, performance | ⬜ pendiente |
